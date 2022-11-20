@@ -24,8 +24,8 @@ Exercício 1 das páginas que devem ser clonadas.
 - [ ] Fazer Login
 - [ ] Matricular em Curso
 - [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [x] **Visualizar Notas**
+- [x] **Visualizar e Atualizar Informações do Estudante**
 
 # Tecnologias Usadas
 
