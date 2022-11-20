@@ -30,6 +30,7 @@ Exercício 1 das páginas que devem ser clonadas.
 # Tecnologias Usadas
 
 - [HTML]
+- [CSS]
 
 
 # Autores
