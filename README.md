@@ -14,9 +14,7 @@ Exercício 1 das páginas que devem ser clonadas.
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
 * [Autores](#autores)
-* [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
 
