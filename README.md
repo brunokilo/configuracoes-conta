@@ -7,9 +7,6 @@
 
 Exercício 1 das páginas que devem ser clonadas.
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
 
 # Índice/Sumário
 
